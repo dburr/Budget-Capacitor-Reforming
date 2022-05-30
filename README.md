@@ -1,12 +1,12 @@
-# GPIB-Capacitor-Reforming
+# Low Budget Capacitor Reforming
 
-Controlling GPIB test equipment to automate reforming capacitors
+A fork of [AkBKukU's](https://github.com/AkBKukU) [GPIB Capacitor Reforming](https://github.com/AkBKukU/GPIB-Capacitor-Reforming) code that works with hobbyist grade (read: cheaper) test gear to automate reforming capacitors.
 
 
 ## Hardware
 
-- HP 6633A ([Manual](https://archive.org/details/hp-6632-a-33-a-34-a-operating)) - Programmable power supply with 0-50V, 0-2A range
-- HP 34401A ([Manual](https://archive.org/details/manuallib-id-2600272)) - 6.5 digit multimeter
+- KORAD KA3005P ([Protocol documentation](https://sigrok.org/wiki/Korad_KAxxxxP_series) - Programmable power supply with 0-30V, 0-5A range
+- ~~HP 34401A ([Manual](https://archive.org/details/manuallib-id-2600272)) - 6.5 digit multimeter~~ DMM is TBD
 
 ## Theory
 
